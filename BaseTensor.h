@@ -1,8 +1,8 @@
 /*
  * BaseTensor.h
  *
- *  Created on: Mar. 18, 2024
- *       Author: Justin Pasztor ID: 40281784, Pierre-Olivier Marquis ID:40284322
+ * Mar. 18, 2024
+ * Pierre-Olivier Marquis ID:40284322
  */
 
 #ifndef BASETENSOR_H_
