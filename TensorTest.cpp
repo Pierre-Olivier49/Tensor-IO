@@ -259,15 +259,15 @@ void testIoT(){
 
 
 int main() {
-	//testRankOneTensorAddition();
-	//testRankTwoTensorAddition();
-	//testRankOneTensorAssignment();
-	//testRankTwoTensorAssignment();
-	//testRankTwoIncrementDecrementOperator();
-	//testDynamicCasting();
-	//testException();
-	//testFileInputStreamOperator();
-	//testLoadFile();
+	testRankOneTensorAddition();
+	testRankTwoTensorAddition();
+	testRankOneTensorAssignment();
+	testRankTwoTensorAssignment();
+	testRankTwoIncrementDecrementOperator();
+	testDynamicCasting();
+	testException();
+	testFileInputStreamOperator();
+	testLoadFile();
 
 	testIoT();
 
